@@ -36,7 +36,7 @@ exports.admin = (groupName) =>{
 	return`🙅‍♀️ Command khusus admin ${groupName}`
 	}
 exports.adminB = () =>{
-	return`⚠️ Bot bukan admin grup`! Shilakan Jadikan Bot Admin Group Jika Ingi Menggunakan Command Ini
+	return`⚠️ Bot bukan admin grup`
 	}
 exports.err = () =>{
 	return`⚠️ Fitur ini sedang eror !`
